@@ -1,0 +1,2 @@
+# django-blog
+example project
