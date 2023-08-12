@@ -7,3 +7,4 @@ psycopg2-binary==2.9.7
 pytz==2022.7
 sqlparse==0.4.3
 typing-extensions==4.7.1
+whitenoise
