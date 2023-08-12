@@ -12,15 +12,15 @@ color: red;
 text-decoration: none;
 }
 .nav-left {
-margin-right:}
-auto;
+margin-right:auto;
+}
 .nav-right {
 display: flex;
 padding-top: 2rem;
 }
 .post-entry {
-margin-bottom:}
-2rem;
+margin-bottom:2rem;
+}
 .post-entry h2 {
 margin: 0.5rem 0;
 }
