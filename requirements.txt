@@ -1,4 +1,4 @@
-pip install --upgrade pip
+--upgrade pip
 backports.zoneinfo
 gunicorn==19.7.1
 asgiref==3.6.0
